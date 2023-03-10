@@ -1,7 +1,7 @@
-# 09/03/23 Lab The BNTA Bakery
+# 09/03/23 Lab The BNTA Bakery 👨‍🍳🧁
 Started building an app that I'll develop further into as I learn more about React. Ultimately the user will be able to see a range of cake recipes and be able to add their own, but for now I will display three pre-selected recipes on the screen.
 
-## MVP
+## MVP 🎯
 
 The details of the cakes are below:
 
@@ -57,7 +57,7 @@ The details of the cakes are below:
 - Build a React app according to your design
 
 
-## Extensions
+## Extensions 📚
 
 - Add CSS to your app.
 - Add a piece of state to track the total value of the cakes sold. Add a "sell cake" button to each cake - when the button is clicked the total sale value should update appropriately.
