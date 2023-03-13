@@ -1,4 +1,4 @@
-# 09/03/23 Lab The BNTA Bakery 👨‍🍳🧁
+# 09/03/23 Lab The Bakery 👨‍🍳🧁
 Started building an app that I'll develop further into as I learn more about React. Ultimately the user will be able to see a range of cake recipes and be able to add their own, but for now I will display three pre-selected recipes on the screen.
 
 ## MVP 🎯
